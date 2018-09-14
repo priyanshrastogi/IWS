@@ -1,0 +1,22 @@
+.container {
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+    position: relative;
+}
+
+.box {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    position: absolute;
+}
+
+#b2 {
+    top: 450px;
+    left: 450px;    
+}
+
+button {
+    margin-top: 50px
+}

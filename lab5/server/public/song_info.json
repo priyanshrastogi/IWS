@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Gratest",
+        "album": "Kamikaze",
+        "singer": "Eminem",
+        "year": 2018
+    },
+    {
+        "name": "In My Feelings",
+        "album": "Scorpion",
+        "singer": "Drake",
+        "year": 2018
+    },
+    {
+        "name": "Ganja Burns",
+        "album": "Queen",
+        "singer": "Nicky Minaj",
+        "year": 2018
+    }
+]

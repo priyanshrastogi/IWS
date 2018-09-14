@@ -1,0 +1,26 @@
+[
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "ISBN": "439023483",
+        "popular": true,
+        "countries": ["USA", "UK", "India"],
+        "year": 2008
+    },
+    {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling, Mary GrandPré",
+        "ISBN": "439554934",
+        "popular": true,
+        "countries": ["UK", "USA", "China"],
+        "year": 1997
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "ISBN": "61120081",
+        "popular": true,
+        "countries": ["USA", "UK", "France"],
+        "year": 1960
+    }
+]
